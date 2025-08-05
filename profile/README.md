@@ -1,4 +1,4 @@
-# 🎶 Diesis-Fidelity  
+Diesis-Fidelity  
 **High-Fidelity Audio OS based on Debian Bullseye & Bookworm**  
 
 <p align="center">
