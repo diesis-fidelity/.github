@@ -1,55 +1,19 @@
-Diesis-Fidelity  
-**High-Fidelity Audio OS based on Debian Bullseye & Bookworm**  
+Diesis-Fidelity High-Fidelity Audio OS based on Debian Bullseye or Bookworm (v11 - v12)
 
-<p align="center">
-  <img src="https://your-logo-url" alt="Diesis-Fidelity Logo" width="250"/>
-</p>
+This project provides custom builds and packages for high-quality audio playback using MPD, myMPD, Upmpdcli, and other optimized Debian components.
 
----
+Included Components This distribution contains precompiled binaries of the following open-source projects:
 
-### 🔥 About Diesis-Fidelity  
-Diesis-Fidelity est un système d'exploitation optimisé pour la lecture audio **audiophile**, basé sur **Debian 11/12**, conçu pour offrir une restitution sonore **pure et analogique**.  
+MPD (Music Player Daemon) – GPLv2 myMPD – GPLv3 upmpdcli – GPLv2 Additional libraries and utilities from Debian
 
-Il intègre une pile audio minimaliste et ultra-optimisée incluant :  
-- **MPD** (Music Player Daemon)  
-- **myMPD** (interface Web avancée)  
-- **upmpdcli** (UPnP/DLNA renderer)  
-- Gestion des flux **Qobuz**, **UPnP**, **DLNA**  
+License and Source Code Availability This project is distributed under GPLv3. As required by the GPL, the complete corresponding source code for any GPL-licensed component is available:
 
----
+The original sources can be obtained from their official repositories:
 
-### ✅ Features  
-✔️ Optimisations **temps réel (RT Kernel)**  
-✔️ **DAC USB** gérés automatiquement via ALSA  
-✔️ **API REST** pour intégration Android/iOS  
-✔️ Compatibilité **NAS / NFS / CIFS**  
-✔️ **Menu interactif** pour réglages audio (DSD, SOXR, Upsampling)  
-✔️ Système **headless** (sans interface graphique inutile)  
+MPD (https://www.musicpd.org/)
 
----
+myMPD (https://juergenmang.de/)
 
-### 🛠 Technologies  
-- **Base** : Debian Bullseye / Bookworm  
-- **Audio Engine** : MPD 0.23.17  
-- **Interfaces** : myMPD, upmpdcli  
-- **API** : Flask REST API  
-- **Optimisation CPU** : xxx ;-)  
+upmpdcli (https://www.lesbonscomptes.com/upmpdcli/)
 
----
-
-### 📦 Components  
-| Component      | License |
-|---------------|---------|
-| MPD           | GPLv2   |
-| myMPD         | GPLv3   |
-| upmpdcli      | GPLv2   |
-
----
-
-### 📸 Screenshots  
-*(Coming soon)*  
-
----
-```bash
-# Exemple : installer MPD custom
-sudo dpkg -i mpd_0.24.0-diesis_amd64.deb
+Modifications and patches made by Diesis-Fidelity will be published in this repository or provided upon request. To request the full source code corresponding to a specific binary release of Diesis-Fidelity, please contact: support@diesis-fidelity.com
