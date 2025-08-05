@@ -4,7 +4,7 @@ This project provides custom builds and packages for high-quality audio playback
 
 Included Components This distribution contains precompiled binaries of the following open-source projects:
 
-MPD (Music Player Daemon) – GPLv2 myMPD – GPLv3 upmpdcli – GPLv2 Additional libraries and utilities from Debian
+MPD (Music Player Daemon) – GPLv2 / myMPD - GPLv3 / Upmpdcli - GPLv2 & Additional libraries and utilities from Debian.
 
 License and Source Code Availability This project is distributed under GPLv3. As required by the GPL, the complete corresponding source code for any GPL-licensed component is available:
 
