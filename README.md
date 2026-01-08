@@ -43,7 +43,7 @@ Unauthorized use, redistribution, modification, or commercial exploitation of th
 
 ## Copyright and Legal Notices
 
-© 2025 Diesis-Fidelity. All rights reserved.
+© 2026 Diesis-Fidelity. All rights reserved.
 
 This project and its contents are protected by copyright law.
 
